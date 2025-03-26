@@ -5,7 +5,7 @@ const Home = () => {
     <div className='w-full flex gap-2'>
       <div className='bg-slate-800 text-white w-1/2 h-auto rounded p-3'>
         <h2>Asilbek Rasulov</h2>
-        <p>Assalamu Alaykum. Shaxsiy Portfolioga xush kelibsiz. Bu yerda siz men haqimda malumot olishingiz mumkun va bundan tashqari men bilan bog'lanishingiz va mening ishlarimni korib chiqishingiz mumkun!!!</p>
+        <p>Bu yerda matin bolishi kerag</p>
         
       </div>
 
